@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kegiatan-keseharianmu/static/css/main.b840a956.chunk.css",
+    "main.js": "/kegiatan-keseharianmu/static/js/main.b5b5e135.chunk.js",
+    "main.js.map": "/kegiatan-keseharianmu/static/js/main.b5b5e135.chunk.js.map",
+    "runtime-main.js": "/kegiatan-keseharianmu/static/js/runtime-main.3e7589c5.js",
+    "runtime-main.js.map": "/kegiatan-keseharianmu/static/js/runtime-main.3e7589c5.js.map",
+    "static/js/2.4d092738.chunk.js": "/kegiatan-keseharianmu/static/js/2.4d092738.chunk.js",
+    "static/js/2.4d092738.chunk.js.map": "/kegiatan-keseharianmu/static/js/2.4d092738.chunk.js.map",
+    "index.html": "/kegiatan-keseharianmu/index.html",
+    "precache-manifest.7fd76397e7efc299e2bf7b2121157d4d.js": "/kegiatan-keseharianmu/precache-manifest.7fd76397e7efc299e2bf7b2121157d4d.js",
+    "service-worker.js": "/kegiatan-keseharianmu/service-worker.js",
+    "static/css/main.b840a956.chunk.css.map": "/kegiatan-keseharianmu/static/css/main.b840a956.chunk.css.map",
+    "static/js/2.4d092738.chunk.js.LICENSE.txt": "/kegiatan-keseharianmu/static/js/2.4d092738.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e7589c5.js",
+    "static/js/2.4d092738.chunk.js",
+    "static/css/main.b840a956.chunk.css",
+    "static/js/main.b5b5e135.chunk.js"
+  ]
+}
