@@ -40,9 +40,13 @@ function TodoList() {
 
     return (
         <div>
-            <h1 class="judul">Apa Kegiatanmu Hari Ini ?</h1>
+            <h1 className="judul" > Apa Kegiatanmu Hari Ini ? </h1>
             <TodoForm onSubmit={addTodo} />
-            <Todo todos={todos} completeTodo={completeTodo} removeTodo={removeTodo} updateTodo={updateTodo} />
+            <Todo todos={todos}
+                completeTodo={completeTodo}
+                removeTodo={removeTodo}
+                updateTodo={updateTodo}
+            />
         </div>
     )
 }
