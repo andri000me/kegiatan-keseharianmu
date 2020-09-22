@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6ab923d5beaab74d657f4b722d47759c",
+    "revision": "8469683963b9235f016ff97f80539713",
     "url": "/kegiatan-keseharianmu/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kegiatan-keseharianmu/static/css/2.8aa5a7f8.chunk.css"
   },
   {
-    "revision": "fbc2937e283ef00e038a",
+    "revision": "c3ea3865d545617a2d39",
     "url": "/kegiatan-keseharianmu/static/css/main.b840a956.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kegiatan-keseharianmu/static/js/2.c18cad1b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fbc2937e283ef00e038a",
-    "url": "/kegiatan-keseharianmu/static/js/main.f1638a24.chunk.js"
+    "revision": "c3ea3865d545617a2d39",
+    "url": "/kegiatan-keseharianmu/static/js/main.08df1e60.chunk.js"
   },
   {
     "revision": "333f22b3e03b3f8d0d6c",

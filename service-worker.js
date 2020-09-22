@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/kegiatan-keseharianmu/precache-manifest.fa30897b3a7e88867e8d6cee30fc6fa5.js"
+  "/kegiatan-keseharianmu/precache-manifest.a19e5fa07ba661db845af9b1b746dcb2.js"
 );
 
 self.addEventListener('message', (event) => {
